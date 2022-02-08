@@ -7,7 +7,8 @@ I can speak 4 languages
 - Japanese (JLPT-N4)
 - English (European B1 Certification, lots of speaking experience with natives)
 - French (European A2 Certification, some speaking experience with natives)
-I'm studying Computer Science at I.T.I. G. Ferraris, Napoli(NA), Italy
+
+I'm currently studying Computer Science at I.T.I. G. Ferraris, Napoli(NA), Italy
 
 # Hobbies@TeknoSenpai
 I like watching Anime, reading Manga and playing Piano.

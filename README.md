@@ -2,7 +2,8 @@
 # Introduction@TeknoSenpai
 Hello everybody! 
 I'm TeknoSenpai, I'm Italian and I'm a Full Stack Developer and an electronics enthusiast!
-I can speak 4 languages
+
+I can speak 4 languages, which are:
 - Italian (Native)
 - Japanese (JLPT-N4)
 - English (European B1 Certification, lots of speaking experience with natives)
@@ -34,5 +35,5 @@ I contributed on some projects on GitHub too!
 - Working on other projects too...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight)
+![TeknoSenpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight)
 ***

@@ -33,5 +33,5 @@ I contributed on some projects on GitHub too!
 - Working on other projects too...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeknoSenpai&layout=compact)](https://github.com/TeknoSenpai/TeknoSenpai/README.md)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight)
 ***

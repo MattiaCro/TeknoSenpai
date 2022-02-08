@@ -1,7 +1,6 @@
-#Introduction@TeknoSenpai
 ***
+# Introduction@TeknoSenpai
 > Hello everybody! 
-***
 > I'm TeknoSenpai, I'm Italian and I'm a Full Stack Developer and an electronics enthusiast!
 > I can speak 4 languages
 - Italian (Native)
@@ -10,10 +9,10 @@
 - French (European A2 Certification, some speaking experience with natives)
 > I'm studying Computer Science at I.T.I. G. Ferraris, Napoli(NA), Italy
 
-#Hobbies@TeknoSenpai
+# Hobbies@TeknoSenpai
 > I like watching Anime, reading Manga and plaing Piano.
 
-#ProgrammingLangs@TeknoSenpai
+# ProgrammingLangs@TeknoSenpai
 > Here are the programming languages I know:
 
 | Language                            | Level of knowledge                                                                                                       |
@@ -29,7 +28,9 @@
 | Ruby                                | Planning to learn                                                                                                        |
 |
 
-#Projects@TeknoSenpai
+# Projects@TeknoSenpai
 > I contributed on some projects on GitHub too!
 - [NISD-Langs](https://github.com/Polliog/NISD-Langs), Translated the bot to Japanese (日本語) and French (Français)
 - Working on other projects too...
+
+***

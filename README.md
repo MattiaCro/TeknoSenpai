@@ -32,4 +32,6 @@ I contributed on some projects on GitHub too!
 - [NISD-Langs](https://github.com/Polliog/NISD-Langs), Translated the bot to Japanese (日本語) and French (Français)
 - Working on other projects too...
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeknoSenpai&layout=compact)](https://github.com/TeknoSenpai/TeknoSenpai/README.md)
 ***

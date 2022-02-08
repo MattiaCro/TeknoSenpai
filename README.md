@@ -10,7 +10,7 @@ I can speak 4 languages
 I'm studying Computer Science at I.T.I. G. Ferraris, Napoli(NA), Italy
 
 # Hobbies@TeknoSenpai
-I like watching Anime, reading Manga and plaing Piano.
+I like watching Anime, reading Manga and playing Piano.
 
 # ProgrammingLangs@TeknoSenpai
 Here are the programming languages I know:

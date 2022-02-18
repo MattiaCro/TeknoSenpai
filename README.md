@@ -3,7 +3,7 @@
 <p>
    Hello everybody!
    <br>
-   I'm TeknoSenpai, and this is my GitHub profile. I'm a developer and I'm currently studying Computer Science at I.T.I. G. Ferraris, Napoli(NA), Italy
+   I'm TeknoSenpai, and this is my GitHub profile. I'm a developer and I'm currently studying Computer Science at I.T.I. G. Ferraris, Napoli (NA), Italy
 </p>
 <br>
 <h1>ℹ️ About Me</h1>

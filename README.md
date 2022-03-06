@@ -18,7 +18,7 @@
    | HTML                                | Decent (90%)                                                                                                             |
    | CSS                                 | Decent (85%)                                                                                                             |
    | BASH                                | Semi-Decent (70%)                                                                                                        |
-   | ArduinoC++                          | Mastered                                                                                                                 |
+   | ArduinoC++ (and plain old C++)      | Mastered                                                                                                                 |
    | PHP                                 | Currently Learning (30%)                                                                                                 |
    | Go                                  | Planning to learn                                                                                                        |
    | Python                              | Planning to learn                                                                                                        |

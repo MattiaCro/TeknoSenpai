@@ -58,9 +58,9 @@
       <li>
          <a href="https://discord.teknocraft.it" taget="_blank">Discord Server</a>
       </li>
-      <li>
-         [![Discord Profile](https://lanyard.cnrad.dev/api/836663939609657385)](https://discord.com/users/836663939609657385)
    </ul>
+   <br>
+   <img src="https://lanyard.cnrad.dev/api/836663939609657385">
    </p>
 </ul>
 <br>

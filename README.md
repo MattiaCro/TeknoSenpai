@@ -4,6 +4,8 @@
    Hello everybody!
    <br>
    I'm TeknoSenpai, and this is my GitHub profile. I'm a developer and I'm currently studying Computer Science at I.T.I. G. Ferraris, Napoli (NA), Italy
+   <br>
+   I'm a member of the <a href="https://nisdbot.xyz" target="_blank">NISD Bot</a> Discord Bot support team, if you're looking for a security bot for your server, i reacommend you check it out!
 </p>
 <br>
 <h1>ℹ️ About Me</h1>

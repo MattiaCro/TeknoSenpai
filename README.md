@@ -11,13 +11,14 @@
 <h1>ℹ️ About Me</h1>
 <p>Here are some things about me:</p>
 <ul>
-   <h2>🔧 Programming languages</h2>
+   <h2>🔧 Programming languages and Frameworks</h2>
    <p>I don't know many programming languages, here is a list:</p>
 
    | Language                            | Level of knowledge                                                                                                       |
    |-------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
    | JavaScript (NODEjs and plain old js)| Mastered                                                                                                                 |
-   | HTML                                | Decent (90%)                                                                                                             |
+   | TypeScript                          | Almost Mastered (~98%)                                                                                                   |
+   | HTML                                | Decent (95%)                                                                                                             |
    | CSS                                 | Decent (85%)                                                                                                             |
    | BASH                                | Semi-Decent (70%)                                                                                                        |
    | ArduinoC++ (and plain old C++)      | Mastered                                                                                                                 |
@@ -25,6 +26,11 @@
    | Go                                  | Planning to learn                                                                                                        |
    | Python                              | Planning to learn                                                                                                        |
    | Ruby                                | Planning to learn                                                                                                        |
+   | Vue.js                              | Planning to learn                                                                                                        |
+   | Angular                             | Planning to learn                                                                                                        |
+   
+   <p>I also specialize in Network and Cyber Security</p>
+   
    <h2>⚙️ Contributions</h2>
    <ul>
       <li>
@@ -44,7 +50,7 @@
          Japanese (JLPT-N4), Decent
       </li>
       <li>
-         English (European B1 Certification, lots of speaking experience with natives), Mastered
+         British English (European B1 Certification, lots of speaking experience with natives), Mastered
       </li>
       <li>
          French (European A2 Certification, some speaking experience with natives), Decent
@@ -67,8 +73,10 @@
 </ul>
 <br>
 <h1>ℹ️ Stats</h1>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight" />
-</a>
+<div>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight&count_private=true" />
+   </a>
+</div>
 
 ***

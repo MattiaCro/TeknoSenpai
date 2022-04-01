@@ -57,14 +57,17 @@
       </li>
    </ul>
    </p>
-   <h2>📱 Socials</h2>
+   <h2>📱 Socials and Contacts</h2>
    <p>
    <ul>
       <li>
          <a href="https://instagram.com/teknosenpai" target="_blank">Instagram</a>
       </li>
       <li>
-         <a href="https://discord.teknocraft.it" taget="_blank">Discord Server</a>
+         <a href="https://discord.teknocraft.it" target="_blank">Discord Server</a>
+      </li>
+      <li>
+         <a href="mailto:tekno@hiri.dev" target="_blank">tekno@hiri.dev</a>
       </li>
    </ul>
    <br>

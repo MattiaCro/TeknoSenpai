@@ -14,20 +14,20 @@
    <h2>🔧 Programming languages and Frameworks</h2>
    <p>I don't know many programming languages, here is a list:</p>
 
-   | Language                            | Level of knowledge                                                                                                       |
-   |-------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-   | JavaScript (NODEjs and plain old js)| Mastered                                                                                                                 |
-   | TypeScript                          | Almost Mastered (~98%)                                                                                                   |
-   | HTML                                | Decent (95%)                                                                                                             |
-   | CSS                                 | Decent (85%)                                                                                                             |
-   | BASH                                | Semi-Decent (70%)                                                                                                        |
-   | ArduinoC++ (and plain old C++)      | Mastered                                                                                                                 |
-   | PHP                                 | Currently Learning (30%)                                                                                                 |
-   | Go                                  | Planning to learn                                                                                                        |
-   | Python                              | Planning to learn                                                                                                        |
-   | Ruby                                | Planning to learn                                                                                                        |
-   | Vue.js                              | Planning to learn                                                                                                        |
-   | Angular                             | Planning to learn                                                                                                        |
+   | Language                            | Level of knowledge |
+   |-------------------------------------|--------------------|
+   | JavaScript (NODEjs and plain old js)| Mastered |
+   | TypeScript                          | Almost Mastered (~98%) 
+   | HTML                                | Decent (95%) |
+   | CSS                                 | Decent (85%) |
+   | BASH                                | Semi-Decent (70%) 
+   | ArduinoC++ (and plain old C++)      | Mastered |
+   | PHP                                 | Dropped (Not Needed) 
+   | Go                                  | Planning to learn |
+   | Python                              | Planning to learn |
+   | Ruby                                | Planning to learn |
+   | Vue.js                              | Planning to learn |
+   | Angular                             | Planning to learn |
    
    <p>I also specialize in Network and Cyber Security</p>
    

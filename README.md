@@ -36,6 +36,12 @@
       <li>
          <a href="https://github.com/Polliog/NISD-Langs" target="_blank">NISD-Langs</a> Translated the bot to Japanese (日本語) and French (Français)
       </li>
+      <li>
+         Developer at <a href="https://hiri.dev" target="_blank">Hiri Devs</a>
+      </li>
+      <li>
+         Developer at <a href="https://techhost.live" target="_blank">TechHost</a>
+      </li>
    </ul>
    <h6>Working on other projects too...</h6>
 

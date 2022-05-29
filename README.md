@@ -42,6 +42,9 @@
       <li>
          Developer at <a href="https://techhost.live" target="_blank">TechHost</a>
       </li>
+      <li>
+         Worked on <a href="https://github.com/TeknoSenpai/MySQL-MariaDB-Node-Terminal">MySQL/MariaDB Node Terminal</a>
+      </li>
    </ul>
    <h6>Working on other projects too...</h6>
 

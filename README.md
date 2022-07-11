@@ -16,18 +16,19 @@
 
    | Language                            | Level of knowledge |
    |-------------------------------------|--------------------|
-   | JavaScript (NODEjs and plain old js)| Mastered |
+   | JavaScript (Node.js and plain JS)   | Mastered |
    | TypeScript                          | Almost Mastered (~98%) 
    | HTML                                | Decent (95%) |
    | CSS                                 | Decent (85%) |
    | BASH                                | Semi-Decent (70%) 
-   | ArduinoC++ (and plain old C++)      | Mastered |
-   | PHP                                 | Dropped (Not Needed) 
+   | ArduinoC++                          | Mastered |
+   | Dart                                | Planning to learn |
+   | PHP                                 | Dropped (Not Needed) |
    | Go                                  | Planning to learn |
-   | Python                              | Planning to learn |
-   | Ruby                                | Planning to learn |
-   | Vue.js                              | Planning to learn |
-   | Angular                             | Planning to learn |
+   | Python                              | Dropped |
+   | Ruby                                | Not interested at the moment |
+   | Vue.js                              | Not interested at the moment |
+   | Angular                             | Started to learn (1%) |
    
    <p>I also specialize in Network and Cyber Security</p>
    

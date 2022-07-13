@@ -11,26 +11,42 @@
 <h1>ℹ️ About Me</h1>
 <p>Here are some things about me:</p>
 <ul>
-   <h2>🔧 Programming languages and Frameworks</h2>
-   <p>I don't know many programming languages, here is a list:</p>
-
-   | Language                            | Level of knowledge |
-   |-------------------------------------|--------------------|
-   | JavaScript (Node.js and plain JS)   | Mastered |
-   | TypeScript                          | Almost Mastered (~98%) 
-   | HTML                                | Decent (95%) |
-   | CSS                                 | Decent (85%) |
-   | BASH                                | Semi-Decent (70%) 
-   | ArduinoC++                          | Mastered |
-   | Dart                                | Planning to learn |
-   | PHP                                 | Dropped (Not Needed) |
-   | Go                                  | Planning to learn |
-   | Python                              | Dropped |
-   | Ruby                                | Not interested at the moment |
-   | Vue.js                              | Not interested at the moment |
-   | Angular                             | Started to learn (1%) |
-   
+   <h2>🔧 Programming languages, Frameworks and Others</h2>
+   <p align="center"><strong>Already learned:</strong></p>
+   <p align="center">
+      <img alt="HTML5" src="https://img.shields.io/badge/html5-000000.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+      <img alt="CSS3" src="https://img.shields.io/badge/css3-000000.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+      <img alt="NodeJS" src="https://img.shields.io/badge/node.js-000000.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img alt="NestJS" src="https://img.shields.io/badge/nest.js-000000.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+      <img alt="AngularJS" src="https://img.shields.io/badge/Angular.js-000000.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
+      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+      <img alt="TypeScript" src="https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=%448cab"/>
+      <img alt="apache" src="https://img.shields.io/badge/apache-000000.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+      <img alt="Nginx" src="https://img.shields.io/badge/nginx-000000.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+      <img alt="MySQL" src="https://img.shields.io/badge/mysql-000000.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white"/>
+      <img alt="SQLite" src="https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+      <img alt="Yarn" src="https://img.shields.io/badge/yarn-000000.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
+      <img alt="Docker" src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+   </p>
+   <p align="center"><strong>Planning to learn:</strong></p>
+   <p align="center">
+      <img alt="Dart" src="https://img.shields.io/badge/dart-000000.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+      <img alt="Java" src="https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+      <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-000000.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white"/>
+      <img alt="Cs" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+      <img alt="cpp" src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+   </p>
    <p>I also specialize in Network and Cyber Security</p>
+
+   
+   <h2>Favourite Editors</h2>
+   <p align="center">
+      <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white"/>
+      <img alt="Intellij" src="https://img.shields.io/badge/intelliJidea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+      <img alt="GoLand" src="https://img.shields.io/badge/gogand-000000.svg?style=for-the-badge&logo=goland&logoColor=white"/>
+   </p>
    
    <h2>⚙️ Contributions</h2>
    <ul>

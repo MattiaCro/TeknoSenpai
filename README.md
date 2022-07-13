@@ -45,7 +45,7 @@
    <p align="center">
       <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white"/>
       <img alt="Intellij" src="https://img.shields.io/badge/intelliJidea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-      <img alt="GoLand" src="https://img.shields.io/badge/gogand-000000.svg?style=for-the-badge&logo=goland&logoColor=white"/>
+      <img alt="GoLand" src="https://img.shields.io/badge/goland-000000.svg?style=for-the-badge&logo=goland&logoColor=white"/>
    </p>
    
    <h2>⚙️ Contributions</h2>

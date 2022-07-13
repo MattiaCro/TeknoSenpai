@@ -18,7 +18,7 @@
       <img alt="CSS3" src="https://img.shields.io/badge/css3-000000.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
       <img alt="NodeJS" src="https://img.shields.io/badge/node.js-000000.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
       <img alt="NestJS" src="https://img.shields.io/badge/nest.js-000000.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
-      <img alt="AngularJS" src="https://img.shields.io/badge/Angular.js-000000.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
+      <img alt="AngularJS" src="https://img.shields.io/badge/Angular 2-000000.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
       <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
       <img alt="TypeScript" src="https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=%448cab"/>
       <img alt="apache" src="https://img.shields.io/badge/apache-000000.svg?&style=for-the-badge&logo=apache&logoColor=white"/>

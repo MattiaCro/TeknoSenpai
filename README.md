@@ -3,7 +3,8 @@
 <p>
 <p align="center">
   <strong>Hello!</strong>
-</p> I'm TeknoSenpai, and this is my GitHub profile. I'm a developer and I'm currently studying Computer Science at <a href="https://itiferraris.edu.it">I.T.I. G. Ferraris, Napoli (NA)</a>, Italy </p>
+</p> I'm TeknoSenpai, and this is my GitHub profile. 
+<br> I'm a developer and I'm currently studying Computer Science at <a href="https://itiferraris.edu.it">I.T.I. G. Ferraris, Napoli (NA)</a>, Italy </p>
 <h1>ℹ️ About Me</h1>
 <p>Here are some things about me:</p>
 <ul>

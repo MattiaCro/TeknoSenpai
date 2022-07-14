@@ -74,21 +74,25 @@
     <a href="https://instagram.com/teknosenpai" target="_blank">
       <img src="https://img.shields.io/badge/@teknosenpai-Instagram-000000.svg?style=for-the-badge&logoColor=white">
     </a>
+    &nbsp;
     <a href="mailto:tekno@hiri.dev" target="_blank">
       <img src="https://img.shields.io/badge/tekno@hiri.dev-eMail-000000.svg?style=for-the-badge">
     </a>
   </p>
-  <p>
-    <br>
+  <p align="center">
     <img src="https://lanyard.cnrad.dev/api/836663939609657385">
   </p>
 </ul>
 <br>
 <h1>ℹ️ Stats</h1>
-<div>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight&count_private=true" />
+     &nbsp;
   </a>
-</div> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknosenpai&theme=tokyonight" />
+  </a>
+</p> 
 
 ***

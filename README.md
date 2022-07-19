@@ -60,7 +60,7 @@ I'm TeknoSenpai, and this is my GitHub profile.
 <p>
 <ul>
     <li>
-        <a href="https://www.amazon.it/gp/product/882039930X">"Il nuovo Java."</a> - Publisher: "Hoepli" for "Hoepli Informatica" - Language: 🇮🇹 - ISBN: 882039930X
+        <a href="https://www.amazon.it/gp/product/882039930X">"Il nuovo Java."</a> - Publisher: "Editore Ulrico Hoepli Milano" under "Hoepli Informatica" - Language: 🇮🇹 - ISBN: 882039930X
     </li>
 </ul>
 </p>

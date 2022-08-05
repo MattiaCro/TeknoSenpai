@@ -105,6 +105,14 @@ I'm TeknoSenpai, and this is my GitHub profile.
 <p align="center">
     <img src="https://lanyard.cnrad.dev/api/836663939609657385">
 </p>
+<!---
+<h1>💻 Hiri Devs</h1>
+<p align="center">
+    <img align="center" src="http://hiri.dev/logo/hiri-banner.png">
+    <h2><strong>Hiri Devs</strong></h2>
+    ...things
+</p>
+-->
 <br>
 <h1>ℹ️ Stats</h1>
 <p align="center">

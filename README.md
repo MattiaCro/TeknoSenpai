@@ -27,6 +27,7 @@ I'm TeknoSenpai, and this is my GitHub profile.
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white" />
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img alt="Yarn" src="https://img.shields.io/badge/yarn-000000.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=javajre&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <p align="center">
@@ -36,6 +37,7 @@ I'm TeknoSenpai, and this is my GitHub profile.
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-000000.svg?&style=for-the-badge&logo=typescript&logoColor=%448cab" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000000.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="apache" src="https://img.shields.io/badge/apache-000000.svg?&style=for-the-badge&logo=apache&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=javajre&logoColor=white" />
     <img alt="Yarn" src="https://img.shields.io/badge/yarn-000000.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </p>
 <p align="center">
@@ -43,7 +45,6 @@ I'm TeknoSenpai, and this is my GitHub profile.
 </p>
 <p align="center">
     <img alt="Dart" src="https://img.shields.io/badge/dart-000000.svg?&style=for-the-badge&logo=dart&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=javajre&logoColor=white" />
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-000000.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 <p align="center">

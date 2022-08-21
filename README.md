@@ -91,6 +91,7 @@ I'm TeknoSenpai, and this is my GitHub profile.
     <li> Japanese (JLPT-N4), Decent </li>
     <li> British English (European B1 Certification, lots of speaking experience with natives), Mastered </li>
     <li> French (European A2 Certification, some speaking experience with natives), Decent </li>
+    <li> Irish Gaeilge (-), Learning </li>
 </ul>
 </p>
 <h2>📱 Socials and Contacts</h2>

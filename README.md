@@ -135,3 +135,5 @@ I'm TeknoSenpai, and this is my GitHub profile.
 </p>
 
 ***
+
+- **If you got here**, just know PHP sucks 

@@ -123,7 +123,7 @@ I'm TeknoSenpai, and this is my GitHub profile.
     &nbsp;
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknosenpai&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknosenpai&theme=tokyonight&count_private=true" />
     </a>
 </p>
 

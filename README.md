@@ -41,7 +41,7 @@ I'm TeknoSenpai, and this is my GitHub profile.
     <img alt="Yarn" src="https://img.shields.io/badge/yarn-000000.svg?style=for-the-badge&logo=yarn&logoColor=white" />
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-000000.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="NestJS" src="https://img.shields.io/badge/nest.js-000000.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-    
+    <img alt="AngularJS" src="https://img.shields.io/badge/Angular 2-000000.svg?&style=for-the-badge&logo=angularjs&logoColor=white" />
 </p>
 <p align="center">
     <strong>Currently learning:</strong> 
@@ -49,7 +49,6 @@ I'm TeknoSenpai, and this is my GitHub profile.
 <p align="center">
     <img alt="Dart" src="https://img.shields.io/badge/dart-000000.svg?&style=for-the-badge&logo=dart&logoColor=white" />
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-000000.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img alt="AngularJS" src="https://img.shields.io/badge/Angular 2-000000.svg?&style=for-the-badge&logo=angularjs&logoColor=white" />
 </p>
 <p align="center">
     <strong>Planning to learn:</strong>

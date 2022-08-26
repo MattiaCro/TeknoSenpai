@@ -64,13 +64,18 @@ I'm TeknoSenpai, and this is my GitHub profile.
         <a href="https://www.amazon.it/gp/product/882039930X">"Il nuovo Java."</a> - Publisher: "Editore Ulrico Hoepli Milano" under "Hoepli Informatica" - Language: 🇮🇹 - ISBN: 882039930X
     </li>
 </ul>
-</p>
 <h2>📝 Favourite Editors</h2>
 <p align="center">
     <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" />
     <img alt="Intellij" src="https://img.shields.io/badge/intelliJidea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img alt="GoLand" src="https://img.shields.io/badge/goland-000000.svg?style=for-the-badge&logo=goland&logoColor=white" />
 </p>
+<h2>🎵 Spotify Playlists</h2>
+<ul>
+    <li>
+        <a href="https://open.spotify.com/playlist/2wK9y8SGH63YY1EtIbmmUA">"Tekno"</a> - A playlist of songs I like, made by me
+    </li>
+</ul>
 <h2>⚙️ Contributions</h2>
 <ul>
     <li>
@@ -93,7 +98,6 @@ I'm TeknoSenpai, and this is my GitHub profile.
     <li> French (European A2 Certification, some speaking experience with natives), Decent </li>
     <li> Irish Gaeilge (-), Learning </li>
 </ul>
-</p>
 <h2>📱 Socials and Contacts</h2>
 <p align="center">
     <a href="https://instagram.com/teknosenpai" target="_blank">
